@@ -1,0 +1,10 @@
+server:
+    port: 8000
+
+spring:
+    data:
+        mongodb:
+            uri: mongodb+srv://<user>:<passwrd>@cluster0.jrlajtw.mongodb.net/?retryWrites=true&w=majority
+            database: AUTHSERVER
+
+   
